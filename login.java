@@ -19,6 +19,8 @@ public static void main(String[] args) {
     if(check.auth()) 
         System.out.println("You are logged in");
 
+        System.out.println("You are logged in");
+        System.out.println("You are logged in");
 
 
 }
